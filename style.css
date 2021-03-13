@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    font-size: 10px;
+}
+
+ul{
+    list-style-type: none;
+}
+.circle-1{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+span{
+    margin-right: 2rem!important;
+}
+
+
+
+
+/* main section  */
+section{
+    background: rgba(180, 180, 180, 0.9);
+}
+
+p{
+    max-width: 80vw;
+}
+
+.rectangle{
+    height: 100px;
+    max-width: 30vw;
+    margin-bottom: 10px !important;
+    background: gray;
+}
+
+
+.circle{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px !important;
+}
+
+
+.square{
+    height: 200px;
+    width: 150px;
+}
